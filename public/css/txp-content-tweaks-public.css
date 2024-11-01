@@ -1,0 +1,21 @@
+/* Post Statistics CSS */
+.txp-content-tweaks-post-stats-action:before {
+	font-family: dashicons;
+	content: "\f239";
+	vertical-align: text-bottom;
+}
+
+/* Post Notice CSS */
+.txp-content-tweaks-post-notice {
+	border: 1px solid;
+	border-color: #9F6000;
+	margin: 1em;
+	padding: 1em;
+	color: #000;
+	background-color: #FEEFB3;
+	text-align: center;
+}
+
+.txp-content-tweaks-post-notice .dashicons {
+	vertical-align: text-bottom;
+}
